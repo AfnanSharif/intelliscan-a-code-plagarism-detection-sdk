@@ -1,0 +1,9 @@
+intellidetect/
+└── src/
+    ├── app/
+    │   └── page.js
+    ├── components/
+    │   ├── Button.js
+    │   └── Header.js
+    └── styles/
+        └── globals.css
